@@ -20,7 +20,7 @@
 <br/>
 <br/>
 
-![slaveshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=slaveshin&theme=radical&show_icons=true)
+![slaveshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=slaveshin&theme=Gradient&show_icons=true)
 
 <!--
 **slaveshin/slaveshin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
