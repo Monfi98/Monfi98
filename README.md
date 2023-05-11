@@ -9,8 +9,7 @@
 
 ### 🧑‍💻 저는 지금...
 
-- 방학동안 iOS 공부를 하고 있어요 → [iOS Study 깃허브 레포지토리](https://github.com/slaveshin/iOS-Study)  
-- 팀 프로젝트를 하고 있어요 → [플래그 보드 깃허브 레포지토리](https://github.com/USW-Flag-Board/IOS)
+- iOS 공부를 하고 있어요 → [iOS Study 깃허브 레포지토리](https://github.com/slaveshin/iOS-Study)
 - 대학교 학생 연구원 소속으로 일하고 있어요 → [깃허브 Web3D-Korea 그룹](https://github.com/Web3D-Korea)
 - 기술 블로그를 시작했어요 → [노예의 개발 블로그](https://slaveshin.tistory.com/)
 <br/>
