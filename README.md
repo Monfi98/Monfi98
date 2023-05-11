@@ -12,7 +12,7 @@
 - iOS 공부를 하고 있어요 → [iOS Study 깃허브 레포지토리](https://github.com/slaveshin/iOS-Study)
 - 대학교 학생 연구원 소속으로 일하고 있어요 → [깃허브 Web3D-Korea 그룹](https://github.com/Web3D-Korea)
 - 기술 블로그를 하고있어요 → [노예의 개발 블로그](https://slaveshin.tistory.com/)
-- Swfit로 1일 1알고리즘을 하고있어요 → [백준 깃허브 레포지토리](https://github.com/slaveshin/baekjoon)
+- Swift로 1일 1알고리즘을 하고있어요 → [백준 깃허브 레포지토리](https://github.com/slaveshin/baekjoon)
 <br/>
 <br/>
 
