@@ -1,18 +1,16 @@
 ### 👋 안녕하세요
 
-서울에 살고 있는 컴퓨터학과 3학년에 재학중인 예비 iOS 개발자 신승재입니다!
-
-열심히해서 취업까지 가보도록 할께요 :)
+AppleDeveloperAcademy@POSTECH 3기 개발자 신승재(몽피)입니다.
 
 
 <br/>
 
 ### 🧑‍💻 저는 지금...
 
-- iOS 공부를 하고 있어요 → [iOS Study 깃허브 레포지토리](https://github.com/slaveshin/iOS-Study)
-- 대학교 학생 연구원 소속으로 일하고 있어요 → [깃허브 Web3D-Korea 그룹](https://github.com/Web3D-Korea)
-- 기술 블로그를 하고있어요 → [노예의 개발 블로그](https://slaveshin.tistory.com/)
-- 백준 사이트에서 알고리즘 공부를 하고있어요 → [백준 깃허브 레포지토리](https://github.com/slaveshin/baekjoon)
+- iOS 공부를 하고 있어요 → [iOS-Study github repo](https://github.com/slaveshin/iOS-Study)
+- iOS UIKit 공부를 하고 있어요 → [iOS-UIKit github repo](https://github.com/slaveshin/iOS-UIKit)
+- iOS SwiftUI 공부를 시작했어요 → [iOS-SwiftUI github repo](https://github.com/slaveshin/iOS-SwiftUI)
+- VRStar 소속으로 뷰어를 개발하고 있어요 → [깃허브 Web3D-Korea 그룹](https://github.com/Web3D-Korea)
 <br/>
 <br/>
 
