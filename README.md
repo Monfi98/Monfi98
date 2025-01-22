@@ -11,7 +11,7 @@
 
 ### 🧑‍💻 Experience
 - 수원대학교 VRLab 학생 연구원 랩장 2021.12 - 2023.12
-- Apple Developer Academy 3기 2024.3 - 2024.12
+- Apple Developer Academy @ POSTECH 3기 2024.3 - 2024.12
 - (주)VRSTA 연구원 X3D 뷰어 개발 2024.1 - 2024.11
 - ESTsoft 프론티어 iOS 부트캠프 1기 2025.1 - 현재
 
