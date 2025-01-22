@@ -31,26 +31,22 @@
   </tr>
    <tr>
     <td>
-      <b>내가 하루에 쓸 수 있는 돈은 얼마일까?</b> <br>
+      <b>내가 하루에 쓸 수 있는 돈은 얼마일까?</b> <br><br>
       수입일 직후 돈을 마구 지출하여,<br> 한 달이 지날수록 부족하게 생활하신 경험이 있나요?<br>
      하루비를 통해 쉽고 빠르게 지출 계획을 시작하세요.<br>
     </td>
     <td>
-      <b>시간관리 초보를 위한 가용 시간 관리 앱</b> <br>
+      <b>시간관리 초보를 위한 가용 시간 관리 앱</b> <br><br>
       오늘 남은 가용 시간을 한 눈에<br>
       가용 시간 관리 앱, 시간을 쉽게 인지하기<br>
     </td>
   </tr>
    <tr>
     <td align="center">
-      <a href="https://apps.apple.com/kr/app/%ED%95%98%EB%A3%A8%EB%B9%84/id6738034352">
-        Appstore Link
-      </a>
+      <img width="100" href="https://apps.apple.com/kr/app/%ED%95%98%EB%A3%A8%EB%B9%84/id6738034352" src="https://github.com/user-attachments/assets/1a1fb468-9118-4066-8aa6-27d0367cff96">
     </td>
     <td align="center">
-      <a href="https://apps.apple.com/kr/app/%EC%8B%9C%EA%B0%84%EA%B0%80%EC%9A%A9/id6736437800">
-        Appstore Link
-      </a>
+      <img width="100" href="https://apps.apple.com/kr/app/%EC%8B%9C%EA%B0%84%EA%B0%80%EC%9A%A9/id6736437800" src="https://github.com/user-attachments/assets/1a1fb468-9118-4066-8aa6-27d0367cff96">
     </td>
   </tr>
 </table>
