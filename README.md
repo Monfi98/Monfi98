@@ -1,3 +1,7 @@
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=BDBDC8&height=230&text=MONFI's%20GITHUB&section=header" />
+
+
 ### 🎓 Education
 
 - 수원대학교 컴퓨터공학과 졸업 2018.2 - 2024.2
@@ -6,12 +10,24 @@
 <br/>
 
 ### 🧑‍💻 Experience
+- 수원대학교 VRLab 학생 연구원 랩장 2021.12 - 2023.12
 - Apple Developer Academy 3기 2024.3 - 2024.12
 - (주)VRSTA 연구원 X3D 뷰어 개발 2024.1 - 2024.11
 
 <br/>
 
-### My Apps
+### ✨ Skills & Tech Stack
+![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white)  ![Swift](https://img.shields.io/badge/swift-F54A2A?style=for-the-badge&logo=swift&logoColor=white)  ![UIkit](https://img.shields.io/badge/UIKit-F54A2A?style=for-the-badge&logo=swift&logoColor=white) ![SwiftUI](https://img.shields.io/badge/SwiftUI-F54A2A?style=for-the-badge&logo=swift&logoColor=white)  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white) ![React](https://img.shields.io/badge/ReactNative-61DAFB?style=for-the-badge&logo=react&logoColor=white)
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=FastAPI&logoColor=white) ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=Django&logoColor=white)
+
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=for-the-badge&logo=xcode&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white) ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
+
+
+<br/>
+
+### 📱 My Apps
 <table>
     <tr>
     <td align="center">
@@ -53,7 +69,7 @@
 <br/>
 <br/>
 
-### Stat
+### 📈 Stat
 
 ![slaveshin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Monfi98&theme=radical&show_icons=true)
 
