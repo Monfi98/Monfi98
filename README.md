@@ -28,7 +28,7 @@
 
 <br/>
 
-### 📱 My Apps
+### 📱 Released Apps
 <table>
     <tr>
     <td align="center">
