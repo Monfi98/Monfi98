@@ -60,10 +60,14 @@
   </tr>
    <tr>
     <td align="center">
-      <img width="100" href="https://apps.apple.com/kr/app/%ED%95%98%EB%A3%A8%EB%B9%84/id6738034352" src="https://github.com/user-attachments/assets/1a1fb468-9118-4066-8aa6-27d0367cff96">
+        <a href="https://apps.apple.com/kr/app/%ED%95%98%EB%A3%A8%EB%B9%84/id6738034352"">
+          <img width="100" src="https://github.com/user-attachments/assets/1a1fb468-9118-4066-8aa6-27d0367cff96">
+        </a>
     </td>
     <td align="center">
-      <img width="100" href="https://apps.apple.com/kr/app/%EC%8B%9C%EA%B0%84%EA%B0%80%EC%9A%A9/id6736437800" src="https://github.com/user-attachments/assets/1a1fb468-9118-4066-8aa6-27d0367cff96">
+        <a href="https://apps.apple.com/kr/app/%EC%8B%9C%EA%B0%84%EA%B0%80%EC%9A%A9/id6736437800">
+      <img width="100" src="https://github.com/user-attachments/assets/1a1fb468-9118-4066-8aa6-27d0367cff96">
+        </a>
     </td>
   </tr>
 </table>
